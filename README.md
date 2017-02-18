@@ -1,2 +1,2 @@
-# BloxTheme
-Wordpress Framework template syste,
+# Theme Framework
+ Wordpress Framework
